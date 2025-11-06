@@ -29,10 +29,10 @@ document.addEventListener('DOMContentLoaded', function() {
 
     const options = {
         strings: [
-            'développeur PHP.',
+            'Développeur Web, Mobile, UI/UX Designer.',
             'amoureux du responsive design.',
-            'créateur d\'expériences web.',
-            'passionné de code.'
+            'créateur d\'expériences web et mobile.',
+            'passionné de code et du design.'
         ],
         
         typeSpeed: 50,  // Vitesse de frappe
